@@ -1,0 +1,4 @@
+combinedGalley: Using combined gallery.
+editPlus: Use longest length matching mehod. Now it is replaced by "man-women-love-marry" matching method.
+master: It is of no use.
+NewGallery20130429: Using new gallery with fused LRB. Three channel are extraced at the same time. 
